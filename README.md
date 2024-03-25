@@ -51,18 +51,10 @@ The dataset includes comprehensive booking details, guest demographics, financia
 - Interpreting the models to derive actionable insights and recommendations for the hotel chain.
 - Identifying key factors influencing booking cancellations, revenue trends, and operational efficiencies.
 
-## Usage
-
-Instructions for cloning the repository, installing dependencies, and running the analysis scripts.
-
 ## Contributors
 
 Bharath Genji Mohana Ranga, Ashwin Muthuraman
 
-## License
-
-Details of the project's licensing arrangement, specifying how others can use or contribute to the project.
 
 ---
 
-Through meticulous analysis and modeling, this project uncovers valuable insights for the hotel industry, aiming to enhance customer experiences and operational strategies through data-driven insights.
